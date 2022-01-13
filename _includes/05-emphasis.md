@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**This is a bullet.** It gets bolded and the citation is at the end. 
+*I think italics are cool.*
